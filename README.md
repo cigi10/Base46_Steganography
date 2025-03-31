@@ -1,4 +1,4 @@
-# Base46_Steganography
+# Base64_Steganography
 - simple lsb steganography implementation in matlab
 
 ## Features
